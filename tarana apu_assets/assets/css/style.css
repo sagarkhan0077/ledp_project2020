@@ -1,0 +1,58 @@
+/*****************************************************************************************
+*****************************************************************************************
+Project Name: LMS
+Author Name: Sahab Uddin
+Client Name: LEDP-2020 D2
+Project Date: 17-06-2020
+Project Type: Education
+Project Section:
+				1.Top Header
+				2.Nav Header
+				3.Slider Section
+				4.About Section
+				5.Courses Section
+				6.Facts Section
+				7.Recent News Section
+**********************************************************************************************
+**********************************************************************************************/
+
+/**********************************************************************************************
+CSS Start
+
+*/
+
+
+
+
+
+
+
+.first_bg_color{
+	background-color: #56ab2f;
+	height: 48px;
+	
+}
+
+.top_list{
+	list-style: none!important;
+
+}
+
+.navsection{
+	padding-left: 30px;
+	margin-top: 10px;
+	z-index: 1111;
+	position: sticky;
+}
+.list li{
+	padding-left:600px !important;
+}
+  h5{
+	border-top: 15px;
+}
+.font1{
+	border-radius: round
+}
+body{
+	margin-bottom:15px;
+}
